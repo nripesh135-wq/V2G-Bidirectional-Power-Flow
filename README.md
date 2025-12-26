@@ -11,7 +11,12 @@ This project simulates a **Vehicle-to-Grid (V2G)** system using MATLAB/Simulink.
   - **V2G (Vehicle-to-Grid):** Discharges battery power back to the grid during peak demand.
 
 ## Results
-<img width="1127" height="674" alt="untitled4" src="https://github.com/user-attachments/assets/50eba33f-2fb0-492f-a12a-39d3f5918cf4" />
+<img width="1048" height="674" alt="untitled1" src="https://github.com/user-attachments/assets/d0eedcbe-7288-46af-a8d3-6665154317f3" />
+<img width="1031" height="674" alt="untitled2" src="https://github.com/user-attachments/assets/ae7a2c58-11e1-4692-a34f-b880b0a94dcb" />
+<img width="1054" height="674" alt="untitled3" src="https://github.com/user-attachments/assets/d466127e-ec33-4fb7-b106-6cb0f702523f" />
+<img width="1127" height="674" alt="untitled4" src="https://github.com/user-attachments/assets/a41a2742-21fd-4660-a881-968b33577d9e" />
+
+
 
 
 > The simulation shows the battery current reversing direction when the grid signals a peak load event, stabilizing the DC link voltage.
